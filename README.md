@@ -1,1 +1,1 @@
-JavaScript Fundamentals - 1 assignment
+PW-Full-Stack-Web-Development-2.0 assignments
