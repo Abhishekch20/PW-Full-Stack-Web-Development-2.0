@@ -1,0 +1,31 @@
+
+    *{
+      margin: 0;
+      padding: 0;
+    }
+    header{
+      position: fixed;
+      width: 100%;
+      border-radius: 5px;
+      border-left: 4px solid #F26969;
+    }
+    div{
+      background-color: #FEE2E2;
+      display: flex;
+      justify-content: space-between;
+    }
+    h4{
+      text-align: center;
+      font-family: Arial, Helvetica, sans-serif;
+      color: #F07589;
+      padding: 20px 0 0px 0;
+    }
+    h6{
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 20px;
+      color: #F07589;
+      cursor: pointer;
+    }
+    img,h6{
+      padding: 20px 10px 10px ;
+    }
